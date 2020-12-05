@@ -1,0 +1,35 @@
+.divsize{
+   width:100pх;
+   height:100pх;
+   border:1pх solid black;
+ }
+ 
+.divred, .divgreen{
+    background-color:yellow;
+ 
+}
+ 
+a{
+     text-dicoration:none
+}
+a:link{
+   color:red;
+   
+}
+
+a:visited{
+    color:black;
+background-color:yellow;
+color:white;
+font-size:25pх;
+}
+input:hover{
+background-color:lightblue;
+}
+input:focus{
+    background-color:red;
+}
+.divgreen:hover{
+   background-color:green;
+   
+}
